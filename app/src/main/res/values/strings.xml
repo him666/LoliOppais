@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoliOppais</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="curso">Curso de Certificacion  Android jr.</string>
+    <string name="sede">Universidad Autonoma Metropolitana Azcapotzalco</string>
+    <string name="alumno">Marin Arechiga Hector Ignacio</string>
+    <string name="matricula">Matricula: 2112004030</string>
+    <string name="mbtn">Iniciar fin del mundo</string>
+</resources>
